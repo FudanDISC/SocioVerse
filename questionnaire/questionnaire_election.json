@@ -1,0 +1,1454 @@
+[
+    {
+        "code": "V201029",
+        "topic": "Voting-Related",
+        "question": "In the general election, what is your order of preference for the major party candidates?",
+        "options": [
+            "Refused",
+            "Democrat first / Republican second",
+            "Republican first / Democrat second"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-1": -2,
+            "1": 1,
+            "2": 2,
+            "3": -2,
+            "4": -2,
+            "5": -2,
+            "12": -2 
+        }
+    },
+    {
+        "code": "V201300",
+        "topic": "Social Security",
+        "question": "What about Social Security? Should federal spending on Social Security be increased, decreased, or kept the same?",
+        "options": [
+            "Refused",
+            "Increased",
+            "Decreased",
+            "Kept the same"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "answer": [
+            40,
+            4557,
+            332,
+            3351
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }
+    },
+    {
+        "code": "V201303",
+        "topic": "Education",
+        "question": "What about public schools? Should federal spending on public schools be increased, decreased, or kept the same?",
+        "options": [
+            "Refused",
+            "Increased",
+            "Decreased",
+            "Kept the same"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "answer": [
+            29,
+            5543,
+            532,
+            2176
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }
+    },
+    {
+        "code": "V201306",
+        "topic": "Immigration",
+        "question": "What about tightening border security to prevent illegal immigration? Should federal spending on tightening border security to prevent illegal immigration be increased, decreased, or kept the same?",
+        "options": [
+            "Refused",
+            "Increased",
+            "Decreased",
+            "Kept the same"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "answer": [
+            41,
+            3484,
+            1941,
+            2814
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }
+    },
+    {
+        "code": "V201309",
+        "topic": "Crime",
+        "question": "What about dealing with crime? Should federal spending on dealing with crime be increased, decreased, or kept the same?",
+        "options": [
+            "Refused",
+            "Increased",
+            "Decreased",
+            "Kept the same"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "answer": [
+            53,
+            4457,
+            945,
+            2825
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }
+    },
+    {
+        "code": "V201312",
+        "topic": "Welfare",
+        "question": "What about welfare programs? Should federal spending on welfare programs be increased, decreased, or kept the same?",
+        "options": [
+            "Refused",
+            "Increased",
+            "Decreased",
+            "Kept the same"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "answer": [
+            57,
+            2385,
+            2316,
+            3522
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }
+    },
+    {
+        "code": "V201315",
+        "topic": "Infrastructure Development",
+        "question": "What about building and repairing highways? Should federal spending on building and repairing highways be increased, decreased, or kept the same?",
+        "options": [
+            "Refused",
+            "Increased",
+            "Decreased",
+            "Kept the same"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "answer": [
+            37,
+            5148,
+            266,
+            2829
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }
+    },
+    {
+        "code": "V201318",
+        "topic": "Wealth Gap",
+        "question": "What about aid to the poor? Should federal spending on aid to the poor be increased, decreased, or kept the same?",
+        "options": [
+            "Refused",
+            "Increased",
+            "Decreased",
+            "Kept the same"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "answer": [
+            39,
+            4189,
+            839,
+            3213
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }
+    },
+    {
+        "code": "V201321",
+        "topic": "Environment",
+        "question": "What about protecting the environment? Should federal spending on protecting the environment be increased, decreased, or kept the same?",
+        "options": [
+            "Refused",
+            "Increased",
+            "Decreased",
+            "Kept the same"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "answer": [
+            26,
+            4961,
+            639,
+            2654
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }
+    },
+    {
+        "code": "V201238",
+        "topic": "Government",
+        "question": "Having elections makes the government pay more attention to what the people think. Do you agree or disagree with this statement?",
+        "options": [
+            "Refused",
+            "Agree",
+            "Disagree"
+        ],
+        "options_code": [
+            -2,
+            1,
+            3
+        ],
+        "answer": [
+            16,
+            6863,
+            1401
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 1,
+            "3": 3
+        }
+    },
+    {
+        "code": "V201239",
+        "topic": "Economy",
+        "question": "Which party do you think would do a better job of handling the nation’s economy?",
+        "options": [
+            "Refused",
+            "Democrats would do a better job",
+            "Republicans would do a better job"
+        ],
+        "options_code": [
+            -2,
+            1,
+            3
+        ],
+        "answer": [
+            1879,
+            2863,
+            3538
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 1,
+            "3": -2,
+            "4": 3,
+            "5": 3
+        }
+    },
+    {
+        "code": "V201240",
+        "topic": "Health Care",
+        "question": "Which party do you think would do a better job of handling health care?",
+        "options": [
+            "Refused",
+            "Democrats would do a better job",
+            "Republicans would do a better job"
+        ],
+        "options_code": [
+            -2,
+            1,
+            3
+        ],
+        "answer": [
+            1528,
+            4237,
+            2515
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 1,
+            "3": -2,
+            "4": 3,
+            "5": 3
+        }
+    },
+    {
+        "code": "V201241",
+        "topic": "Immigration",
+        "question": "Which party do you think would do a better job of handling immigration?",
+        "options": [
+            "Refused",
+            "Democrats would do a better job",
+            "Republicans would do a better job"
+        ],
+        "options_code": [
+            -2,
+            1,
+            3
+        ],
+        "answer": [
+            1201,
+            3840,
+            3239
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 1,
+            "3": -2,
+            "4": 3,
+            "5": 3
+        }
+    },
+    {
+        "code": "V201242",
+        "topic": "Tax",
+        "question": "Which party do you think would do a better job of handling taxes?",
+        "options": [
+            "Refused",
+            "Democrats would do a better job",
+            "Republicans would do a better job"
+        ],
+        "options_code": [
+            -2,
+            1,
+            3
+        ],
+        "answer": [
+            2127,
+            2859,
+            3294
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 1,
+            "3": -2,
+            "4": 3,
+            "5": 3
+        }
+    },
+    {
+        "code": "V201243",
+        "topic": "Environment",
+        "question": "Which party do you think would do a better job of handling the environment?",
+        "options": [
+            "Refused",
+            "Democrats would do a better job",
+            "Republicans would do a better job"
+        ],
+        "options_code": [
+            -2,
+            1,
+            3
+        ],
+        "answer": [
+            1907,
+            4695,
+            1678
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 1,
+            "3": -2,
+            "4": 3,
+            "5": 3
+        }
+    },
+    {
+        "code": "V201246",
+        "topic": "Health Care",
+        "question": "Some people think the government should provide fewer services even in areas such as health and education in order to reduce spending. Other people feel it is important for the government to provide many more services even if it means an increase in spending. And, of course, some people have a neutral position. Which of the following best describes your view?",
+        "options": [
+            "Refused",
+            "Government should provide fewer services",
+            "Government should provide more services"
+        ],
+        "options_code": [
+            -2,
+            1,
+            3
+        ],
+        "answer": [
+            2727,
+            1870,
+            3683
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": -2,
+            "5": 3,
+            "6": 3,
+            "7": 3,
+            "99": -2
+        }
+    },
+    {
+        "code": "V201249",
+        "topic": "National Defense",
+        "question": "Some people believe that we should spend less money for defense. Others feel that defense spending should be increased. And, of course, some people have a neutral position. Which of the following best describes your view?",
+        "options": [
+            "Refused",
+            "Decrease defense spending",
+            "Increase defense spending"
+        ],
+        "options_code": [
+            -2,
+            1,
+            3
+        ],
+        "answer": [
+            2891,
+            2112,
+            3277
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": -2,
+            "5": 3,
+            "6": 3,
+            "7": 3,
+            "99": -2
+        }
+    },
+    {
+        "code": "V201252",
+        "topic": "Health Care",
+        "question": "There is much concern about the rapid rise in medical and hospital costs. Some people feel there should be a government insurance plan which would cover all medical and hospital expenses for everyone. Others feel that all medical expenses should be paid by individuals through private insurance plans like Blue Cross or other company paid plans. And, of course, some people have a neutral position. Which of the following best describes your view?",
+        "options": [
+            "Refused",
+            "Government insurance plan",
+            "Private insurance plan"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [
+            2192,
+            3382,
+            2706
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": -2,
+            "5": 2,
+            "6": 2,
+            "7": 2,
+            "99": -2
+        }
+    },
+    {
+        "code": "V201255",
+        "topic": "Social Security",
+        "question": "Some people feel the government in Washington should see to it that every person has a job and a good standard of living. Others think the government should just let each person get ahead on their own. And, of course, some people have a neutral position. Which of the following best describes your view?",
+        "options": [
+            "Refused",
+            "Government should see to jobs and standard of living",
+            "Government should let each person get ahead on own"
+        ],
+        "options_code": [
+            -2,
+            1,
+            3
+        ],
+        "answer": [
+            2418,
+            2708,
+            3154
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": -2,
+            "5": 3,
+            "6": 3,
+            "7": 3,
+            "99": -2
+        }
+    },
+    {
+        "code": "V201258",
+        "topic": "Race Equality",
+        "question": "Some people feel that the government in Washington should make every effort to improve the social and economic position of blacks. Others feel that the government should not make any special effort to help blacks because they should help themselves. And, of course, some people have a neutral position. Which of the following best describes your view?",
+        "options": [
+            "Refused",
+            "Government should help blacks",
+            "Blacks should help themselves"
+        ],
+        "options_code": [
+            -2,
+            1,
+            3
+        ],
+        "answer": [
+            2463,
+            3287,
+            2530
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": -2,
+            "5": 3,
+            "6": 3,
+            "7": 3,
+            "99": -2
+        }
+    },
+    {
+        "code": "V201262",
+        "topic": "Environment",
+        "question": "Some people think we need much tougher government regulations on business in order to protect the environment. Others think that current regulations to protect the environment are already too much of a burden on business. And, of course, some people have a neutral position. Which of the following best describes your view?",
+        "options": [
+            "Refused",
+            "Tougher regulations on business needed to protect environment",
+            "Regulations to protect environment already too much a burden on business"
+        ],
+        "options_code": [
+            -2,
+            1,
+            3
+        ],
+        "answer": [
+            2274,
+            4266,
+            1740
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": -2,
+            "5": 3,
+            "6": 3,
+            "7": 3,
+            "99": -2
+        }
+    },
+    {
+        "code": "V201340",
+        "topic": "Abortion",
+        "question": "Would you be pleased, or upset if the Supreme Court reduced abortion rights?",
+        "options": [
+            "Refused",
+            "Pleased",
+            "Upset"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [
+            2476,
+            1817,
+            3987
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": -2
+        }
+    },
+    {
+        "code": "V201343",
+        "topic": "Crime",
+        "question": "Do you favor or oppose the death penalty for persons convicted of murder? ",
+        "options": [
+            "Refused",
+            "Favor",
+            "Oppose"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [
+            152,
+            4936,
+            3192
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2
+        }
+    },
+    {
+        "code": "V201347",
+        "topic": "International Relations",
+        "question": "This country would be better off if we just stayed home and did not concern ourselves with problems in other parts of the world. Do you agree or disagree with this statement?",
+        "options": [
+            "Refused",
+            "Agree",
+            "Disagree"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [
+            67,
+            2048,
+            6165
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2
+        }
+    },
+    {
+        "code": "V201350",
+        "topic": "International Relations",
+        "question": "The United States should use military force to solve international problems. Do you agree, or disagree with this statement?",
+        "options": [
+            "Refused",
+            "Agree",
+            "Disagree"
+        ],
+        "options_code": [
+            -2,
+            1,
+            3
+        ],
+        "answer": [
+            58,
+            5261,
+            4068,
+            2961
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 3,
+            "5": 3
+        }
+    },
+    {
+        "code": "V201397",
+        "topic": "Wealth Gap",
+        "question": "Do you think the difference in incomes between rich people and poor people in the United States today is larger, smaller, or about the same as it was 20 years ago?",
+        "options": [
+            "Refused",
+            "Larger",
+            "Smaller",
+            "About the same"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "answer": [
+            64,
+            6117,
+            416,
+            1683
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }
+    },
+    {
+        "code": "V201401",
+        "topic": "Environment",
+        "question": "The federal government should be doing more about rising temperatures. Do you agree or disagree with this statement?",
+        "options": [
+            "Refused",
+            "Agree",
+            "Disagree"
+        ],
+        "options_code": [
+            -2,
+            1,
+            3
+        ],
+        "answer": [
+            104,
+            4759,
+            3417
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 3,
+            "3": 3
+        }
+    },
+    {
+        "code": "V201403",
+        "topic": "Welfare",
+        "question": "Do you favor, oppose, or neither favor nor oppose requiring employers tooffer paid leave to parents of new children? ",
+        "options": [
+            "Refused",
+            "Favor",
+            "Oppose"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [
+            1778,
+            5855,
+            647
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": -2
+        }
+    },
+    {
+        "code": "V201406",
+        "topic": "LGBTQ",
+        "question": "Do you think business owners who provide wedding-related services should be allowed to refuse services to same-sex couples if same-sex marriage violates their religious beliefs, or do you think business owners should be required to provide services regardless of a couple’s sexual orientation? ",
+        "options": [
+            "Refused",
+            "Should be allowed to refuse",
+            "Should be required to provide services"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [
+            112,
+            4083,
+            4085
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2
+        }
+    },
+    {
+        "code": "V201409",
+        "topic": "LGBTQ",
+        "question": "Should transgender people - that is, people who identify themselves as the sex or gender different from the one they were born as - have to use the bathrooms of the gender they were born as, or should they be allowed to use the bathrooms of their identified gender?",
+        "options": [
+            "Refused",
+            "Have to use the bathrooms of the gender they were born as",
+            "Be allowed to use the bathrooms of their identified gender"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [
+            306,
+            3730,
+            4344
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2
+        }
+    },
+    {
+        "code": "V201412",
+        "topic": "LGBTQ",
+        "question": "Do you favor or oppose laws to protect gays and lesbians against job discrimination?",
+        "options": [
+            "Refused",
+            "Favor",
+            "Oppose"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [
+            98,
+            7138,
+            1044
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2
+        }
+    },
+    {
+        "code": "V201415",
+        "topic": "LGBTQ",
+        "question": "Do you think gay or lesbian couples should be legally permitted to adopt children?",
+        "options": [
+            "Refused",
+            "Yes",
+            "No"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [
+            128,
+            6554,
+            1598
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2
+        }
+    },
+    {
+        "code": "V201416",
+        "topic": "LGBTQ",
+        "question": "Which comes closest to your view? You can just tell me the number of your choice.",
+        "options": [
+            "Refused",
+            "Gay and lesbian couples should be allowed to legally marry",
+            "Gay and lesbian couples should be allowed to form civil unions but not legally marry",
+            "There should be no legal recognition of gay or lesbian couples’ relationship"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "answer": [
+            119,
+            5568,
+            1517,
+            1076
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }
+    },
+    {
+        "code": "V201418",
+        "topic": "Immigration",
+        "question": "Some people have proposed that the U.S. Constitution should be changed so that the children of unauthorized immigrants do not automatically get citizenship if they are born in this country. \nDo you favor, oppose, or neither favor nor oppose this proposal?",
+        "options": [
+            "Refused",
+            "Favor",
+            "Oppose"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [
+            2329,
+            2217,
+            3734
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": -2
+        }
+    },
+    {
+        "code": "V201421",
+        "topic": "Immigration",
+        "question": "What should happen to immigrants who were brought to the U.S. illegally as children and have lived here for at least 10 years and graduated high school here? Should they be sent back where they came from, or should they be allowed to live and work in the United States?",
+        "options": [
+            "Refused",
+            "Should be sent back where they came from",
+            "Should be allowed to live and work in the US"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [
+            141,
+            954,
+            7195
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2
+        }
+    },
+    {
+        "code": "V201424",
+        "topic": "Immigration",
+        "question": "Do you favor, oppose, or neither favor nor oppose building a wall on the U.S. border with Mexico?",
+        "options": [
+            "Refused",
+            "Favor",
+            "Oppose"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [
+            1509,
+            2983,
+            3788
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": -2
+        }
+    },
+    {
+        "code": "V201430",
+        "topic": "Public Security",
+        "question": "During the past few months, would you say that most of the actions taken by protestors to get the things they want have been violent, or have most of these actions by protesters been peaceful, or have these actions been equally violent and peaceful?",
+        "options": [
+            "Refused",
+            "Mostly violent",
+            "Mostly peaceful",
+            "Equally violent and peaceful"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "answer": [
+            35,
+            2699,
+            2984,
+            2562
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }
+    },
+    {
+        "code": "V201227",
+        "topic": "Government",
+        "question": "Do you think it is better when one party controls both the presidency and Congress, or better when control is split between the Democrats and Republicans?",
+        "options": [
+            "Refused",
+            "Better when one party controls both",
+            "Better when control is split"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [
+            1591,
+            2567,
+            4122
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": -2
+        }
+    },
+    {
+        "code": "V201234",
+        "topic": "Government",
+        "question": "Would you say the government is pretty much run by a few big interests looking out for themselves or that it is run for the benefit of all the people? ",
+        "options": [
+            "Refused",
+            "Run by a few big interests",
+            "For the benefit of all the people"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [
+            102,
+            6909,
+            1269
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2
+        }
+    },
+    {
+        "code": "V201235",
+        "topic": "Government",
+        "question": "People in government waste a lot of the money we pay in taxes. Do you agree or disagree with this statement?",
+        "options": [
+            "Refused",
+            "Agree",
+            "Disagree"
+        ],
+        "options_code": [
+            -2,
+            1,
+            3
+        ],
+        "answer": [
+            29,
+            5580,
+            2671
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 3,
+            "3": 3
+        }
+    },
+    {
+        "code": "V201360",
+        "topic": "Crime",
+        "question": "Do you favor, oppose, or neither favor nor oppose allowing convicted felons to vote once they complete their sentence? ",
+        "options": [
+            "Refused",
+            "Favor",
+            "Oppose"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [
+            2120,
+            4719,
+            1441
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": -2
+        }
+    },
+    {
+        "code": "V201366",
+        "topic": "News",
+        "question": "News organizations are free to criticize political leaders. Do you agree or disagree with this statement?",
+        "options": [
+            "Refused",
+            "Disagree",
+            "Agree"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [
+            57,
+            1451,
+            6772
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 1,
+            "3": 2,
+            "4": 2,
+            "5": 2
+        }
+    },
+    {
+        "code": "V201367",
+        "topic": "Government",
+        "question": "How important is it that the executive, legislative, and judicial branches of government keep one another from having too much power?",
+        "options": [
+            "Refused",
+            "Not important",
+            "Moderately important",
+            "Important"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "answer": [
+            37,
+            309,
+            1077,
+            6857
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 1,
+            "3": 2,
+            "4": 3,
+            "5": 3
+        }
+    },
+    {
+        "code": "V201368",
+        "topic": "Government",
+        "question": "If elected officials behave inappropriately, they must bear serious consequences. Do you agree, or disagree with this statement?",
+        "options": [
+            "Refused",
+            "Disagree",
+            "Agree"
+        ],
+        "options_code": [
+            -2,
+            1,
+            3
+        ],
+        "answer": [
+            600,
+            157,
+            7523
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 1,
+            "3": -2,
+            "4": 3,
+            "5": 3
+        }
+    },
+    {
+        "code": "V201369",
+        "topic": "Government",
+        "question": "People should agree on basic facts even if they disagree politically. Do you agree, or disagree with this statement?",
+        "options": [
+            "Refused",
+            "Disagree",
+            "Agree"
+        ],
+        "options_code": [
+            -2,
+            1,
+            3
+        ],
+        "answer": [
+            1689,
+            432,
+            6159
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 1,
+            "3": -2,
+            "4": 3,
+            "5": 3
+        }
+    },
+    {
+        "code": "V201370",
+        "topic": "Government",
+        "question": "Would it be helpful, or harmful if U.S. presidents could work on the country’s problems without paying attention to what Congress and the courts say?",
+        "options": [
+            "Refused",
+            "Helpful",
+            "Harmful"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [
+            1865,
+            1055,
+            5360
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": -2
+        }
+    },
+    {
+        "code": "V201373",
+        "topic": "News",
+        "question": "Do you favor, or oppose elected officials restricting journalists’ access to information about government decision-making? ",
+        "options": [
+            "Refused",
+            "Favor",
+            "Oppose"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [
+            2390,
+            1322,
+            4568
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": -2
+        }
+    },
+    {
+        "code": "V201639",
+        "topic": "Feminism",
+        "question": "'Many women interpret innocent remarks or acts as being sexist.'\nDo you agree, or disagree with this statement?",
+        "options": [
+            "Refused",
+            "Agree",
+            "Disagree"
+        ],
+        "options_code": [
+            -2,
+            1,
+            3
+        ],
+        "answer": [
+            3207,
+            2558,
+            2515
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-5": -2,
+            "1": 1,
+            "2": 1,
+            "3": -2,
+            "4": 3,
+            "5": 3
+        }
+    },
+    {
+        "code": "V201640",
+        "topic": "Feminism",
+        "question": "Women seek to gain power by getting control over men.’ \nDo you agree, or disagree with this statement?",
+        "options": [
+            "Refused",
+            "Agree",
+            "Disagree"
+        ],
+        "options_code": [
+            -2,
+            1,
+            3
+        ],
+        "answer": [
+            3099,
+            1259,
+            3922
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-5": -2,
+            "1": 1,
+            "2": 1,
+            "3": -2,
+            "4": 3,
+            "5": 3
+        }
+    }
+]

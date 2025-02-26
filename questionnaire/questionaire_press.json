@@ -1,0 +1,128 @@
+{
+    "q_1":{
+        "id": 1,
+        "category": "PC",
+        "type": "choice",
+        "content": "我听说过 ChatGPT。",
+        "choices": ["A. 完全不同意", "B. 有点不同意", "C. 中立", "D. 有点同意", "E. 同意"]
+    },
+    "q_2":{
+        "id": 2,
+        "category": "PC",
+        "type": "choice",
+        "content": "我身边很多人使用ChatGPT。",
+        "choices": ["A. 完全不同意", "B. 有点不同意", "C. 中立", "D. 有点同意", "E. 同意"]
+    },
+    "q_3":{
+        "id": 3,
+        "category": "PC",
+        "type": "choice",
+        "content": "我对ChatGPT的功能和应用非常了解。",
+        "choices": ["A. 完全不同意", "B. 有点不同意", "C. 中立", "D. 有点同意", "E. 同意"]
+    },
+    "q_4":{
+        "id": 4,
+        "category": "PR",
+        "type": "choice",
+        "content": "ChatGPT可能导致大量虚假信息传播。",
+        "choices": ["A. 完全不同意", "B. 有点不同意", "C. 中立", "D. 有点同意", "E. 同意"]
+    },
+    "q_5":{
+        "id": 5,
+        "category": "PR",
+        "type": "choice",
+        "content": "ChatGPT会使人类的思考能力和创造力下降。",
+        "choices": ["A. 完全不同意", "B. 有点不同意", "C. 中立", "D. 有点同意", "E. 同意"]
+    },
+    "q_6":{
+        "id": 6,
+        "category": "PR",
+        "type": "choice",
+        "content": "ChatGPT的发展可能导致部分岗位被替代，对此我非常担忧。",
+        "choices": ["A. 完全不同意", "B. 有点不同意", "C. 中立", "D. 有点同意", "E. 同意"]
+    },
+    "q_7":{
+        "id": 7,
+        "category": "PB",
+        "type": "choice",
+        "content": "ChatGPT肯定会提高我的工作和学习效率。",
+        "choices": ["A. 完全不同意", "B. 有点不同意", "C. 中立", "D. 有点同意", "E. 同意"]
+    },
+    "q_8":{
+        "id": 8,
+        "category": "PB",
+        "type":"choice",
+        "content": "ChatGPT有助于拓展我的知识视野，为我提供新的观点和思路。",
+        "choices": ["A. 完全不同意", "B. 有点不同意", "C. 中立", "D. 有点同意", "E. 同意"]
+    },
+    "q_9":{
+        "id": 9,
+        "category": "PB",
+        "type":"choice",
+        "content": "ChatGPT能促进相关领域的技术创新和发展。",
+        "choices": ["A. 完全不同意", "B. 有点不同意", "C. 中立", "D. 有点同意", "E. 同意"]
+    },
+    "q_10":{
+        "id": 10,
+        "category": "TR",
+        "type":"choice",
+        "content": "我完全相信研发ChatGPT的团队能合理管理和引导其发展。",
+        "choices": ["A. 完全不同意", "B. 有点不同意", "C. 中立", "D. 有点同意", "E. 同意"]
+    },
+    "q_11":{
+        "id": 11,
+        "category": "TR",
+        "type":"choice",
+        "content": "我对ChatGPT生成信息的准确性和可靠性非常信任。",
+        "choices": ["A. 完全不同意", "B. 有点不同意", "C. 中立", "D. 有点同意", "E. 同意"]
+    },
+    "q_12":{
+        "id": 12,
+        "category": "TR",
+        "type":"choice",
+        "content": "我相信未来ChatGPT的应用肯定会受到有效监管。",
+        "choices": ["A. 完全不同意", "B. 有点不同意", "C. 中立", "D. 有点同意", "E. 同意"]
+    },
+    "q_13":{
+        "id": 13,
+        "category": "FA",
+        "type":"choice",
+        "content": "ChatGPT的使用机会在不同人群间分配非常公平。",
+        "choices": ["A. 完全不同意", "B. 有点不同意", "C. 中立", "D. 有点同意", "E. 同意"]
+    },
+    "q_14":{
+        "id": 14,
+        "category": "FA",
+        "type":"choice",
+        "content": "在ChatGPT带来的收益分配上，我觉得非常公平。",
+        "choices": ["A. 完全不同意", "B. 有点不同意", "C. 中立", "D. 有点同意", "E. 同意"]
+    },
+    "q_15":{
+        "id": 15,
+        "category": "FA",
+        "type":"choice",
+        "content": "对于ChatGPT的研发和推广决策过程，我认为完全公开透明、能充分体现公众意愿。",
+        "choices": ["A. 完全不同意", "B. 有点不同意", "C. 中立", "D. 有点同意", "E. 同意"]
+    },
+    "q_16":{
+        "id": 16,
+        "category": "PA",
+        "type":"choice",
+        "content": "总体而言，我非常欢迎ChatGPT出世。",
+        "choices": ["A. 完全不同意", "B. 有点不同意", "C. 中立", "D. 有点同意", "E. 同意"]
+    },
+    "q_17":{
+        "id": 17,
+        "category": "PA",
+        "type":"choice",
+        "content": "我肯定愿意在工作或学习中使用ChatGPT。",
+        "choices": ["A. 完全不同意", "B. 有点不同意", "C. 中立", "D. 有点同意", "E. 同意"]
+    },
+    "q_18":{
+        "id": 18,
+        "category": "PA",
+        "type":"choice",
+        "content": "我非常支持加大对ChatGPT这类人工智能技术的研发投入。",
+        "choices": ["A. 完全不同意", "B. 有点不同意", "C. 中立", "D. 有点同意", "E. 同意"]
+    }
+}

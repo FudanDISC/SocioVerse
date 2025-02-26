@@ -8,4 +8,4 @@ Notice: user pool for the president election prediction is too large to upload d
 ### User Pool
 We release the whole user pool from X on HuggingFace, which contains over 1,000,000 real-world user knowledge.
 
-HF Dataset: [Download Link]()
+HF Dataset: [Download Link](https://huggingface.co/datasets/Lishi0905/SimulateAnything)

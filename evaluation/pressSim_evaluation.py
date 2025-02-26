@@ -14,7 +14,7 @@ def convert_to_scores(data):
 
 
 if __name__ == "__main__":
-    with open("/remote-home/share/xnzhang_share/SocialSimulation/full_flow/result.json",'r') as file:
+    with open("./result.json",'r') as file:
         data = json.load(file)
 
     models = ['llama','qwen','gpt4o','gpt4omini','deepseek']

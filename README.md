@@ -10,7 +10,7 @@ This is the official repo for the paper 🚀***Simulate Anything**: A Generalize
 - A pool of **10 million** real-world users;
 - A unified questionnaire-based evaluation method;
 - **Three** applicable simulation scenarios:
-  - President Election Prediction ([details](https://github.com/amazingljy1206/ElectionSim));
+  - President Election Prediction;
   - Breaking News Feedback;
   - National Economic Survey.
 

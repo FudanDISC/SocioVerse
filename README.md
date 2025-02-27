@@ -1,11 +1,11 @@
 # Simulate Anything
-This is the official repo for the paper 🚀***Simulate Anything**: A Generalized Social Simulation Framework Driven by LLM Agents Based on a Large-Scale Real-World User Pool*. 
+This is the official repo for the paper 🚀***Simulate Anything**: A Generalized Social Simulation Framework Empowered by LLM Agents and A Pool of 10 Million Real-World Users*. 
 
 [\[📄Paper Link\]]() [\[🤗User Pool\]](https://huggingface.co/datasets/Lishi0905/SimulateAnything)
 
 ![framework](./assets/framework_v3.png)
 
-### Contributions
+### 🌟Contributions
 - A generalized social simulation framework: 🚀***Simulate Anything***；
 - A pool of **10 million** real-world users;
 - A unified questionnaire-based evaluation method;

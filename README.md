@@ -1,7 +1,7 @@
 # Simulate Anything
 This is the official repo for the paper 🚀***Simulate Anything**: A Generalized Social Simulation Framework Empowered by LLM Agents and A Pool of 10 Million Real-World Users*. 
 
-[\[📄Paper Link\]]() [\[🤗User Pool\]](https://huggingface.co/datasets/Lishi0905/SimulateAnything)
+[\[🤗User Pool\]](https://huggingface.co/datasets/Lishi0905/SimulateAnything)
 
 ![framework](./assets/framework_v3.png)
 

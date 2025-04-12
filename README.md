@@ -9,7 +9,6 @@ This is the official repo for the paper 🚀***SocioVerse**: A World Model for S
 ### 🌟Contributions
 - 🚀***SocioVerse***: a world model for social simulation comprising four powerful alignment modules；
 - A pool of **10 million** real-world users;
-- A unified questionnaire-based evaluation method;
 - **Three** illustrative simulation scenarios:
   - President Election Prediction of America;
   - Breaking News Feedback;

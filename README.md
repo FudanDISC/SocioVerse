@@ -24,5 +24,10 @@ This is the official repository for the paper 🚀***SocioVerse**: A World Model
 ### Citation
 We are grateful if you find our work useful, and please cite our paper as follows:
 ```
-
+@article{zhang2025socioverse
+author = {Xinnong Zhang and Jiayu Lin and Xinyi Mou and Shiyue Yang and Xiawei Liu and Libo Sun and Hanjia Lyu and Yihang Yang and Weihong Qi and Yue Chen and Guanying Li and Ling Yan and Yao Hu and Siming Chen and Yu Wang and Jingxuan Huang and Jiebo Luo and Shiping Tang and Libo Wu and Baohua Zhou and Zhongyu Wei},
+title = {SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users},
+year = {2025},
+journal={arXiv preprint arXiv:2504.10157},
+}
 ```

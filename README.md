@@ -2,7 +2,7 @@
 This is the official repository for the paper 🚀***SocioVerse**: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users*. 
 
 - Welcome to try our demo here[\[✡️Demo\]](http://www.fudan-disc.com/socioverse/).
-- You can download a 1,000,000 size user pool here[\[🤗User Pool\]](https://huggingface.co/datasets/Lishi0905/SimulateAnything).
+- You can download a 1,000,000 size subset user pool here[\[🤗User Pool\]](https://huggingface.co/datasets/Lishi0905/SimulateAnything).
 
 ![framework](./assets/framework.png)
 
